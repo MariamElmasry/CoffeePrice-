@@ -1,0 +1,8 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">coffeePrice</string>
+    <string name="Topping">Topping</string>
+    <string name="thank_you">Thank You</string>
+    <string name="custotomer_name">Customer: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="Whipped_cream">addWhippedCream?</string>
+    <string name="chocolate">addChocolate?</string>
+</resources>

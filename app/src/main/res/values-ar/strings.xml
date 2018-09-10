@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">coffeePrice</string>
+    <string name="Topping">اضافات</string>
+    <string name="thank_you">شكرا</string>
+    <string name="custotomer_name">اسم العميل</string>
+    <string name="Whipped_cream">كريمة مخفوقة</string>
+    <string name="chocolate">شوكولاتة</string>
+</resources>
